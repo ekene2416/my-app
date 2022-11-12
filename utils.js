@@ -2,13 +2,9 @@
 // How to create variables:
 var x;
 let y;
-
-// How to use variables:
+var x;
+let a;
 x = 5;
-
 y = 2;
-let z = x * y;
-
-y = 6;
+let c = x * y;
 let z = x + y;
-
