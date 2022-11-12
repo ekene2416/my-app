@@ -1,5 +1,4 @@
-
-// How to create variables:
+// demostration of basic addition of numbers using javascript
 var x;
 let y;
 var x;
